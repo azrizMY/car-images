@@ -4,8 +4,8 @@ A car loan calculator application supporting multiple car brands.
 
 ## Supported Brands
 
-- **Chery** - [Link to Chery calculato]
-- **Proton** - [https://proton-azri-sales.pages.dev/]
+- **Chery** - [Link to Chery calculator]
+- **Proton** - https://proton-azri-sales.pages.dev/
 
 ## Features
 
@@ -19,7 +19,7 @@ A car loan calculator application supporting multiple car brands.
 ![Chery Calculator](path/to/chery/folder/image.png)
 
 ### Proton Car Loan Calculator
-![Proton Calculator](path/to/proton/folder/image.png)
+![Proton Calculator](proton)
 
 ## How to Use
 
