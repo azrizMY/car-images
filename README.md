@@ -28,19 +28,3 @@ A car loan calculator application supporting multiple car brands.
 3. Choose down payment amount
 4. Select loan tenure
 5. View your monthly installment
-
-## Technologies Used
-
-- [List your technologies: HTML, CSS, JavaScript, etc.]
-
-## Installation
-
-[Add installation steps if applicable]
-
-## Contributing
-
-[Add contribution guidelines]
-
-## License
-
-[Add license information]
