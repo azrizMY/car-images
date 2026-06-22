@@ -1,2 +1,46 @@
-# car-images
-Images for my car loan calculator
+# Car Loan Calculator
+
+A car loan calculator application supporting multiple car brands.
+
+## Supported Brands
+
+- **Chery** - [Link to Chery calculato]
+- **Proton** - [https://proton-azri-sales.pages.dev/]
+
+## Features
+
+- Calculate monthly car loan payments
+- Compare different loan tenures
+- View interest rates and total payment breakdowns
+
+## Screenshots
+
+### Chery Car Loan Calculator
+![Chery Calculator](path/to/chery/folder/image.png)
+
+### Proton Car Loan Calculator
+![Proton Calculator](path/to/proton/folder/image.png)
+
+## How to Use
+
+1. Select your preferred car brand (Chery or Proton)
+2. Enter the car price
+3. Choose down payment amount
+4. Select loan tenure
+5. View your monthly installment
+
+## Technologies Used
+
+- [List your technologies: HTML, CSS, JavaScript, etc.]
+
+## Installation
+
+[Add installation steps if applicable]
+
+## Contributing
+
+[Add contribution guidelines]
+
+## License
+
+[Add license information]
