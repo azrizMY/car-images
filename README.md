@@ -16,7 +16,7 @@ A car loan calculator application supporting multiple car brands.
 ## Screenshots
 
 ### Chery Car Loan Calculator
-![Chery Calculator](path/to/chery/folder/image.png)
+![Chery Calculator](car-images/chery/)
 
 ### Proton Car Loan Calculator
 ![Proton Calculator](car-images/proton/)
